@@ -13,4 +13,4 @@ Victor Chang Cardiac Research Institute
 
 {{ site.description }}
 
-<img src="index/graphic.png" align=center> 
+<img src="index/graphic.png" width="100%" align=center> 
