@@ -22,7 +22,7 @@ title: Stewart Heitmann
 email: s.heitmann@victorchang.edu.au
 # The description also appears in the meta data for google searches.
 description: >- # this means to ignore newlines until "baseurl:" 
-  Dr Stewart Heitmann is a Senior Staff Scientist at the Victor Chang Cardiac Research Institute in Sydney, Australia. He uses computer simulations of cardiac electrophysiology to study the genesis of arrythmias in the heart. His work spans computational cardiology, computational neuroscience, applied mathematics and occasionally art.
+  Dr Stewart Heitmann is a Senior Staff Scientist at the Victor Chang Cardiac Research Institute in Sydney, Australia. He uses computer simulations of cardiac electrophysiology to study the genesis of arrhythmias in the heart. His work spans computational cardiology, computational neuroscience, applied mathematics and occasionally art.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: StewartHeitmann
