@@ -6,7 +6,7 @@ list_title:
 ---
 
 ## Brain Dynamics Toolbox
-The **Brain Dynamics Toolbox** is open matlab software for exploring user-defined dynamical systems with minimal programming effort. Specifically, initial-value problems in systems of ODEs, DDEs, SDEs and PDEs. Users define their system of equations as a custom matlab function. Interchangeable solvers and graphical plotting tools can then be applied to it with no additional programming effort. The toolbox is available from [bdtoolbox.org](https://bdtoolbox.org).
+The **Brain Dynamics Toolbox** is open matlab software for exploring user-defined dynamical systems with minimal programming effort. It solves initial-value problems in systems of ODEs, DDEs, SDEs and PDEs. Users define their system of equations as a custom matlab function. Interchangeable solvers and graphical plotting tools can then be applied to it with no additional programming effort. The toolbox is available from [bdtoolbox.org](https://bdtoolbox.org).
 
 ![Handbook for the Brain Dynamics Toolbox](PaperbackCoverArt-2023.png "Handbook for the Brain Dynamics Toolbox"){: .my-image70} 
 
