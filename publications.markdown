@@ -6,17 +6,18 @@ layout: page
 title: Publications
 ---
 # Software
-**Brain Dynamics Toolbox (2016-2022)** Matlab toolbox for simulating dynamical systems in neuroscience. [https://bdtoolbox.org](https://bdtoolbox.org)
-: **Argtable (1998-2011)** ANSI C library for parsing command-line arguments. Shipped with most unix distributions.
+**Brain Dynamics Toolbox (2016-2023)** Matlab toolbox for simulating dynamical systems in neuroscience. [bdtoolbox.org](https://bdtoolbox.org).
+
+**Argtable (1998-2011)** ANSI C library for parsing command-line arguments. In most unix distributions.
 
 # Books
-Heitmann S, Breakspear M (2017-2022) **Handbook for the Brain Dynamics Toolbox.** *bdtoolbox.org.* 1st Edition: *Version 2017c*, ISBN 978-1-5497-2070-3. 2nd Edition: *Version 2018a*, ISBN 978-1-9805-7250-3. 3rd Edition: *Version 2018b*, ISBN 978-1-7287-8188-4. 4th Edition: *Version 2019a*, ISBN 978-1-0861-1705-9. 5th Edition: *Version 2020*, ISBN 978-0-6450669-0-6. 6th Edition: *Version 2021*, ISBN 978-0-6450669-1-3. 7th Edition: *Version 2022*, ISBN 978-0-6450669-2-0.
+Heitmann S, Breakspear M (2017-2023) **Handbook for the Brain Dynamics Toolbox.** *bdtoolbox.org.* 1st Edition: *Version 2017c*, ISBN 978-1-5497-2070-3. 2nd Edition: *Version 2018a*, ISBN 978-1-9805-7250-3. 3rd Edition: *Version 2018b*, ISBN 978-1-7287-8188-4. 4th Edition: *Version 2019a*, ISBN 978-1-0861-1705-9. 5th Edition: *Version 2020*, ISBN 978-0-6450669-0-6. 6th Edition: *Version 2021*, ISBN 978-0-6450669-1-3. 7th Edition: *Version 2022*, ISBN 978-0-6450669-2-0. 8th Edition: *Version 2023*, ISBN 978-0-6450669-3-7.
 
 # Book Chapters
 Park Y, Heitmann S, Ermentrout GB (2017) *The utility of phase models in studying neuronal synchronization*. In **Computational Models of Brain and Behavior.** Ed Ahmed A Moustafa. 493-504. John Wiley & Sons.  
 
 # Selected Papers
-Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **bioRxiv.** <https://doi.org/10.1101/2023.04.19.537441>.
+Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.** [doi:10.7554/eLife.90027.2](https://doi.org/10.7554/eLife.90027.2).
 
 Finol-Urdaneta RK, Ziegman R, Dekan Z, McArthur JR, Heitmann S, Luna-Ramirez K, Tae HS, Mueller A, Starobova H, Chin YKY, Wingerd JS, Undheim EAB, Cristofori-Armstrong B, Hill AP, Herzig V, King GF, Vetter I, Rash LD, Adams DJ, Alewood PF (2022) *Multitarget nociceptor sensitization by a promiscuous peptide from the venom of the King Baboon spider.* **PNAS** 119 (5) e2110932119.
 

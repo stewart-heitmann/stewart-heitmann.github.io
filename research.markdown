@@ -8,9 +8,9 @@ list_title:
 ## Brain Dynamics Toolbox
 The **Brain Dynamics Toolbox** is open matlab software for exploring user-defined dynamical systems with minimal programming effort. Specifically, initial-value problems in systems of ODEs, DDEs, SDEs and PDEs. Users define their system of equations as a custom matlab function. Interchangeable solvers and graphical plotting tools can then be applied to it with no additional programming effort. The toolbox is available from [bdtoolbox.org](https://bdtoolbox.org).
 
-![Handbook for the Brain Dynamics Toolbox](PaperbackCoverArt-2022.png "Handbook for the Brain Dynamics Toolbox"){: .my-image70} 
+![Handbook for the Brain Dynamics Toolbox](PaperbackCoverArt-2023.png "Handbook for the Brain Dynamics Toolbox"){: .my-image70} 
 
-Heitmann S, Breakspear M (2022) **Handbook for the Brain Dynamics Toolbox: Version 2022.** *bdtoolbox.org.* ISBN 978-0-6450669-2-0.
+Heitmann S, Breakspear M (2023) **Handbook for the Brain Dynamics Toolbox: Version 2023.** *bdtoolbox.org.* ISBN 978-0-6450669-3-7.
 
 Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.* **Neurocomputing** Vol 315. p82-88. doi:10.1016/j.neucom.2018.06.026
 <br><br>
@@ -21,7 +21,8 @@ Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.
 Many classes of drugs cause potentially fatal arrhythmias by interfering with the electrical properties of heart cells. International safety guidelines thus require all new drugs to be tested in living cells prior to human trials. Computer models offer an ethical alternative but are difficult to deploy outside of specialist computing laboratories. We solved the problem by using computer simulation to identify the principal axis of arrhythmia in cardiac electrophysiology. The axis serves as a yardstick for pharmacologists to assess the arrhythmogenic risk of any drug without animals nor bespoke computer simulations. 
 ![Axis of Arrhythmia](AxisArrhythmiaFig1.png "Axis of Arrhythmia"){:width="100%"} 
 
-Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **bioRxiv.** <https://doi.org/10.1101/2023.04.19.537441>.
+Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.**
+[doi:10.7554/eLife.90027.2](https://doi.org/10.7554/eLife.90027.2).
 <br><br>
 
 ---
