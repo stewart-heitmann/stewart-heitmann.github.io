@@ -22,7 +22,7 @@ Many classes of drugs cause potentially fatal arrhythmias by interfering with th
 ![Axis of Arrhythmia](AxisArrhythmiaFig1.png "Axis of Arrhythmia"){:width="100%"} 
 
 Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.**
-[doi:10.7554/eLife.90027.2](https://doi.org/10.7554/eLife.90027.2).
+[doi:10.7554/eLife.90027](https://doi.org/10.7554/eLife.90027).
 <br><br>
 
 ---
