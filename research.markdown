@@ -18,7 +18,7 @@ Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.
 ---
 
 ## Assessing drugs for cardiotoxicity
-Many classes of drugs cause potentially fatal arrhythmias by interfering with the electrical properties of heart cells. International safety guidelines thus require all new drugs to be tested in living cells prior to human trials. Computer models offer an ethical alternative but are difficult to deploy outside of specialist computing laboratories. We solved the problem by using computer simulation to identify the principal axis of arrhythmia in cardiac electrophysiology. The axis serves as a yardstick for pharmacologists to assess the arrhythmogenic risk of any drug without animals nor bespoke computer simulations. 
+Many classes of drugs cause potentially fatal arrhythmias by interfering with the electrical properties of heart cells. International safety guidelines thus require all new drugs to be tested in living cells prior to human trials. Computer models offer an ethical alternative but are difficult to deploy outside of specialist computing laboratories. We solved the problem by using computer simulation to identify the principal axis of arrhythmia in cardiac electrophysiology. The axis serves as a yardstick for pharmacologists to assess the arrhythmogenic risk of any drug without using animals or drug-specific computer simulations. 
 ![Axis of Arrhythmia](AxisArrhythmiaFig1.png "Axis of Arrhythmia"){:width="100%"} 
 
 Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.**
