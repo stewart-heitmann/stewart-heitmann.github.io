@@ -17,7 +17,9 @@ Heitmann S, Breakspear M (2017-2023) **Handbook for the Brain Dynamics Toolbox.*
 Park Y, Heitmann S, Ermentrout GB (2017) *The utility of phase models in studying neuronal synchronization*. In **Computational Models of Brain and Behavior.** Ed Ahmed A Moustafa. 493-504. John Wiley & Sons.  
 
 # Selected Papers
-Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.** [doi:10.7554/eLife.90027](https://doi.org/10.7554/eLife.90027).
+ Heitmann S, Vandenberg JI, Hill AP (2025). Independent derivations of the axis of arrhythmia for predicting drug-induced torsades de pointes. **British Journal of Pharmacology**, 1–15. [doi:10.1111/bph.7078](https://doi.org/10.1111/bph.70078)
+ 
+ Heitmann S, Vandenberg JI, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.** [doi:10.7554/eLife.90027](https://doi.org/10.7554/eLife.90027).
 
 Finol-Urdaneta RK, Ziegman R, Dekan Z, McArthur JR, Heitmann S, Luna-Ramirez K, Tae HS, Mueller A, Starobova H, Chin YKY, Wingerd JS, Undheim EAB, Cristofori-Armstrong B, Hill AP, Herzig V, King GF, Vetter I, Rash LD, Adams DJ, Alewood PF (2022) *Multitarget nociceptor sensitization by a promiscuous peptide from the venom of the King Baboon spider.* **PNAS** 119 (5) e2110932119.
 
