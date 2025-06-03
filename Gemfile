@@ -37,3 +37,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Needed for Ruby 3.0 or later
 gem "webrick", "~> 1.8"
+
+# Needed for Ruby 3.4 or later
+gem "csv"
+
