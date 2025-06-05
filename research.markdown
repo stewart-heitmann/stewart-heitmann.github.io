@@ -17,11 +17,13 @@ Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.
 
 ---
 
-## Assessing drugs for cardiotoxicity
-Many classes of drugs cause potentially fatal arrhythmias by interfering with the electrical properties of heart cells. International safety guidelines thus require all new drugs to be tested in living cells prior to human trials. Computer models offer an ethical alternative but are difficult to deploy outside of specialist computing laboratories. We solved the problem by using a large one-off computer simulation to identify the principal axis of arrhythmia in cardiac electrophysiology. The axis serves as a yardstick for pharmacologists to assess the arrhythmogenic risk of new drugs without using animals or costly computer models. 
-![Axis of Arrhythmia](AxisArrhythmiaFig1.png "Axis of Arrhythmia"){:width="100%"} 
+## Cardiac Safety Pharmacology
+The *axis of arrhythmia* is a conceptual framework we devised to predict the risk of drug-induced torsades de pointes, a life-threatening ventricular arrhythmia. The axis quantifies how different combinations of ion channel blockade in cardiac cells influence arrhythmogenic potential, offering a standardised method for drug safety assessment. Recently, we showed that the axis can be derived independently from both (i) biophysical computer simulations, and (ii) statistical analysis of pharmacological drug datasets. It is a lovely example of a simple idea that bridges the gap between complex biophysical models and black-box statistical models.
+![Axis of Arrhythmia](AxisArrhythmiaFig2.png "Axis of Arrhythmia"){: .my-image70}
 
-Heitmann S, Vandenberg J, Hill A (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.**
+Heitmann S, Vandenberg JI, Hill AP (2025). *Independent derivations of the axis of arrhythmia for predicting drug-induced torsades de pointes.* **British Journal of Pharmacology**, 1–15. [doi:10.1111/bph.7078](https://doi.org/10.1111/bph.70078).
+
+Heitmann S, Vandenberg JI, Hill AP (2023) *Assessing drug safety by identifying the axis of arrhythmia in cardiomyocyte electrophysiology.* **eLife.**
 [doi:10.7554/eLife.90027](https://doi.org/10.7554/eLife.90027).
 <br><br>
 
