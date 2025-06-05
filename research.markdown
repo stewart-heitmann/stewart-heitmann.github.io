@@ -19,7 +19,7 @@ Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.
 
 ## Cardiac Safety Pharmacology
 The *axis of arrhythmia* is a conceptual framework we devised to predict the risk of drug-induced torsades de pointes, a life-threatening ventricular arrhythmia. The axis quantifies how different combinations of ion channel blockade in cardiac cells influence arrhythmogenic potential, offering a standardised method for drug safety assessment. Recently, we showed that the axis can be derived independently from both (i) biophysical computer simulations, and (ii) statistical analysis of pharmacological drug datasets. It is a lovely example of a simple idea that bridges the gap between complex biophysical models and black-box statistical models.
-![Axis of Arrhythmia](AxisArrhythmiaFig2.png "Axis of Arrhythmia"){: .my-image70}
+![Axis of Arrhythmia Figure](AxisArrhythmiaFig2.png "Axis of Arrhythmia"){: .my-image70}
 
 Heitmann S, Vandenberg JI, Hill AP (2025). *Independent derivations of the axis of arrhythmia for predicting drug-induced torsades de pointes.* **British Journal of Pharmacology**, 1–15. [doi:10.1111/bph.7078](https://doi.org/10.1111/bph.70078).
 
