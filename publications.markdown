@@ -6,12 +6,12 @@ layout: page
 title: Publications
 ---
 # Software
-**Brain Dynamics Toolbox (2016-2023)** Matlab toolbox for simulating dynamical systems in neuroscience. [bdtoolbox.org](https://bdtoolbox.org).
+**Brain Dynamics Toolbox (2016-2026)** Matlab toolbox for simulating dynamical systems in neuroscience.
 
 **Argtable (1998-2011)** ANSI C library for parsing command-line arguments. In most unix distributions.
 
 # Books
-Heitmann S, Breakspear M (2017-2023) **Handbook for the Brain Dynamics Toolbox.** *bdtoolbox.org.* 1st Edition: *Version 2017c*, ISBN 978-1-5497-2070-3. 2nd Edition: *Version 2018a*, ISBN 978-1-9805-7250-3. 3rd Edition: *Version 2018b*, ISBN 978-1-7287-8188-4. 4th Edition: *Version 2019a*, ISBN 978-1-0861-1705-9. 5th Edition: *Version 2020*, ISBN 978-0-6450669-0-6. 6th Edition: *Version 2021*, ISBN 978-0-6450669-1-3. 7th Edition: *Version 2022*, ISBN 978-0-6450669-2-0. 8th Edition: *Version 2023*, ISBN 978-0-6450669-3-7.
+Heitmann S, Breakspear M (2017-2023) **Handbook for the Brain Dynamics Toolbox.** 1st Edition: *Version 2017c*, ISBN 978-1-5497-2070-3. 2nd Edition: *Version 2018a*, ISBN 978-1-9805-7250-3. 3rd Edition: *Version 2018b*, ISBN 978-1-7287-8188-4. 4th Edition: *Version 2019a*, ISBN 978-1-0861-1705-9. 5th Edition: *Version 2020*, ISBN 978-0-6450669-0-6. 6th Edition: *Version 2021*, ISBN 978-0-6450669-1-3. 7th Edition: *Version 2022*, ISBN 978-0-6450669-2-0. 8th Edition: *Version 2023*, ISBN 978-0-6450669-3-7. 9th Edition: *Version 2026*, ISBN 978-0-6450669-3-7.
 
 # Book Chapters
 Park Y, Heitmann S, Ermentrout GB (2017) *The utility of phase models in studying neuronal synchronization*. In **Computational Models of Brain and Behavior.** Ed Ahmed A Moustafa. 493-504. John Wiley & Sons.  
