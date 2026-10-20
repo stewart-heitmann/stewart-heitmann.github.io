@@ -11,7 +11,7 @@ title: Publications
 **Argtable (1998-2011)** ANSI C library for parsing command-line arguments. In most unix distributions.
 
 # Books
-Heitmann S, Breakspear M (2017-2026) **Handbook for the Brain Dynamics Toolbox.** 9th Edition: *Version 2026*, ISBN 978-0-6450669-3-7.
+Heitmann S, Breakspear M (2017-2026) **Handbook for the Brain Dynamics Toolbox.** 9th Edition: *Version 2026*. bdtoolbox.org, Sydney. ISBN 978-0-6450669-3-7.
 
 # Book Chapters
 Park Y, Heitmann S, Ermentrout GB (2017) *The utility of phase models in studying neuronal synchronization*. In **Computational Models of Brain and Behavior.** Ed Ahmed A Moustafa. 493-504. John Wiley & Sons.  

@@ -10,7 +10,7 @@ The **Brain Dynamics Toolbox** is open matlab software for exploring user-define
 
 ![Handbook for the Brain Dynamics Toolbox](PaperbackCoverArt-2026-100dpi.png "Handbook for the Brain Dynamics Toolbox"){: .my-image70} 
 
-Heitmann S, Breakspear M (2026) **Handbook for the Brain Dynamics Toolbox: Version 2026.** *bdtoolbox.org.* ISBN 978-0-6450669-4-4.
+Heitmann S, Breakspear M (2026) **Handbook for the Brain Dynamics Toolbox**. 9th Edition: Version 2026. bdtoolbox.org, Sydney. ISBN 978-0-6450669-4-4.
 
 Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.* **Neurocomputing** Vol 315. p82-88. doi:10.1016/j.neucom.2018.06.026
 <br><br>
